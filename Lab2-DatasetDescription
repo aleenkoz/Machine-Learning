@@ -1,0 +1,3 @@
+This dataset contains the items customers buy from a grocery store.
+With this dataset, I aim to use a Machine Learning model to help online grocery shops increase their delivery speed  by using the predicted information and preparing the customer's order before checkout.
+The model will learn from customers' previous purchasing behaviour to predict the next item they are going to buy,
